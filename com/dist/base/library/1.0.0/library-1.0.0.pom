@@ -85,5 +85,11 @@
       <version>RELEASE</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>com.esri.arcgisruntime</groupId>
+      <artifactId>arcgis-android</artifactId>
+      <version>100.6.0</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
 </project>
